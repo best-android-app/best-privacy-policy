@@ -1,5 +1,6 @@
 # BEST Privacy Policy
 This app has access to:
+
 Wi-Fi connection information
 
     view Wi-Fi connections
